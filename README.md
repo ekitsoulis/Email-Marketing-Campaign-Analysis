@@ -78,6 +78,5 @@ This is a **revenue-focused recommendation, not a profitability claim**. Marketi
 | `README.md` | Project overview, methods, findings, and recommendation |
 | `analysis.sql` | BigQuery SQL used in the analysis |
 | `dashboard.png` | Power BI dashboard preview shown above |
-| `dashboard.pdf` | Exported report for easy viewing |
 
 **Reproducing the analysis:** Download the source dataset, import it into BigQuery, and run the queries in `analysis.sql`. Update table identifiers if your Google Cloud project or dataset name differs. The dashboard uses the same campaign-level results.
